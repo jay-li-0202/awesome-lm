@@ -6,7 +6,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list idea.
 
 **Table of Contents**
 
-- 
+- [Resources, Blogs, Books](https://github.com/andrew-johnson-4/awesome-lm/blob/main/README.md#resources-blogs-and-books)
+- [For Beginners](https://github.com/andrew-johnson-4/awesome-lm/blob/main/README.md#for-beginners)
+- [Ecosystem](https://github.com/andrew-johnson-4/awesome-lm/blob/main/README.md#ecosystem)
+- [Advanced Concepts](https://github.com/andrew-johnson-4/awesome-lm/blob/main/README.md#advanced-concepts)
+- [Reference Material](https://github.com/andrew-johnson-4/awesome-lm/blob/main/README.md#reference-material)
 
 It looks like traffic to your repository is a little light. Go spread the word and check back later!
 
