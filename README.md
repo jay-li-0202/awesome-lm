@@ -16,6 +16,9 @@ It looks like traffic to your repository is a little light. Go spread the word a
 
 ## Resources, Blogs, and Books
 
+[Andrew Johnson's Substack](https://andrewjohnson4.substack.com/)
+Andrew was the author of the original LM compiler.
+
 ### For Beginners
 
 ### Deep Dive
