@@ -29,6 +29,6 @@ It looks like traffic to your repository is a little light. Go spread the word a
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 * [doby](https://github.com/andrew-johnson-4/doby) is a Package Manager and Build Tool
 
-### Deep Dive
+### Advanced Concepts
 
-### References
+### Reference Material
