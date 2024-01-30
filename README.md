@@ -21,6 +21,8 @@ It looks like traffic to your repository is a little light. Go spread the word a
 
 ### For Beginners
 
+* Using Doby and LM to generate a static website
+
 ### Ecosystem
 
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
