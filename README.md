@@ -19,6 +19,9 @@ It looks like traffic to your repository is a little light. Go spread the word a
 [Andrew Johnson's Substack](https://andrewjohnson4.substack.com/)
 — Andrew was the author of the original LM compiler.
 
+[Bootstrap Book](https://github.com/andrew-johnson-4/BootstrapBook)
+— A generally useful book for anyone learning to write a compiler.
+
 ### For Beginners
 
 * Using Doby and LM to generate a static website
